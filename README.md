@@ -1,8 +1,6 @@
 # ETHBerlin³ 2022
 
 Welcome back to Berlin!
-
-**TL;DR!**
 -   Find a team on Github: <https://github.com/ethb3rlin/find-a-team>
 -   Connect with hackers on Matrix: [#ethberlin:matrix.org](https://matrix.to/#/%23ethberlin:matrix.org)
 -   Check for updates on: <https://ethberlin.ooo> 
