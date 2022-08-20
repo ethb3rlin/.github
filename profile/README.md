@@ -15,3 +15,5 @@ Welcome to the ETHBerlin³ Github!
 → Browse additional sponsor bounties: https://github.com/ethb3rlin/sponsor-bounties
 
 **All updates and the official hackathon schedule on [ethberlin.ooo](https://ethberlin.ooo).**
+
+![ETHBerlin logo](https://ethberlin.ooo/card.png)
