@@ -6,5 +6,6 @@
 4. Bookmark the mentor helpdesk: _soon!_
 5. Study the schedule: <https://ethberlin.ooo/program>
 7. Locate the venue: [Factory Görlitzer Park](https://factoryberlin.com/spaces/#factory-berlin-gorlitzer-park), Lohmühlenstraße 65, 12435 Berlin, Germany
+6. Offer or find a couch: [Cryptpad: ETHBerlin³ Couch-Surfing](https://office.ethberl.in/sheet/#/2/sheet/edit/QwTrwOKdKS3FBRLPQp3BWNBM/)
 8. Browse additional sponsor bounties: <https://github.com/ethb3rlin/sponsor-bounties>
 9. Check for updates: <https://ethberlin.ooo> 
