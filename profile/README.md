@@ -16,4 +16,4 @@ Welcome to the ETHBerlin³ Github!
 
 **All updates and the official hackathon schedule on [ethberlin.ooo](https://ethberlin.ooo).**
 
-![ETHBerlin logo](https://ethberlin.ooo/card.png)
+![ETHBerlin Banner](/ethberlin_banner.png)
